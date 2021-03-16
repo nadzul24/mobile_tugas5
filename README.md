@@ -1,3 +1,7 @@
 # mobile_tugas5
 
-![alt text](https://github.com/nadzul24/mobile_tugas5/commit/d9e3f2a695ac008582c9a2a6eb4cea3469c931b9)
+![alt text](https://github.com/nadzul24/mobile_tugas5/blob/main/Capture_1%20tugas05.JPG)
+
+![alt text](https://github.com/nadzul24/mobile_tugas5/blob/main/Capture_2%20tugas05.JPG)
+
+![alt text](https://github.com/nadzul24/mobile_tugas5/blob/main/Capture_3%20tugas05.JPG)
